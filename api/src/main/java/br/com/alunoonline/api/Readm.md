@@ -1,11 +1,9 @@
-#Dever sobre spring
-
 
 ## Como configurar:
 
-* Será nescessario acessar o site start.spring.io e baixar as seguintes dependências ...
+* Será nescessario acessar o site start.spring.io e baixar as seguintes dependências Spring Web, Spring Data JPA, PostgresSQL Driver, Lombok.
 * Ápós baixa-las ultilize a IDE de sua preferencia e abra com ela a pasta api que foi baixada no site.
-* Configure sua IDE
+* Configure sua IDE.
 
 
 ## O programa possui 4 arquivos principais:
@@ -44,4 +42,12 @@
 - **`@Service`**: Marca a classe como um serviço Spring, contendo a lógica de negócios.
 - **`@Autowired`**: Permite a injeção automática de dependências pelo Spring.eção automática de dependências pelo Spring.
 
-##
+## Banco de dados
+
+### Criação do Banco de Dados:
+
+- Execute o comando CREATE DATABASE aluno_online_turma_3; para criar um novo banco de dados.
+
+### Visualização de Dados:
+
+- Execute o comando SELECT * FROM public.aluno; para ver todos os dados armazenados na tabela aluno.
