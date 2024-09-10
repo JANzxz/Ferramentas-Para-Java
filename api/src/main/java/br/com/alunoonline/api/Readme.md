@@ -51,3 +51,9 @@
 ### Visualização de Dados:
 
 - Execute o comando SELECT * FROM public.aluno; para ver todos os dados armazenados na tabela aluno.
+
+![WhatsApp Image 2024-09-10 at 10 10 14](https://github.com/user-attachments/assets/d69b5a21-c66c-41a0-97e5-45bcb1a3f122)
+
+
+![WhatsApp Image 2024-09-10 at 10 15 45](https://github.com/user-attachments/assets/4c10d544-f210-4b63-bbc8-0a91c5444d34)
+
